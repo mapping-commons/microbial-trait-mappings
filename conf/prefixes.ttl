@@ -1,0 +1,12 @@
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+[
+ sh:declare
+ [ sh:prefix "GO" ; sh:namespace "http://purl.obolibrary.org/obo/GO_"]
+,[ sh:prefix "CL" ; sh:namespace "http://purl.obolibrary.org/obo/CL_"]
+,[ sh:prefix "MICRO" ; sh:namespace "http://purl.obolibrary.org/obo/MICRO_"]
+,[ sh:prefix "OMP" ; sh:namespace "http://purl.obolibrary.org/obo/OMP_"]
+,[ sh:prefix "ECOCORE" ; sh:namespace "http://purl.obolibrary.org/obo/ECOCORE_"]
+,[ sh:prefix "OBA" ; sh:namespace "http://purl.obolibrary.org/obo/OBA_"]
+].
