@@ -1,0 +1,4 @@
+    [ <https://w3id.org/inca/stopword> "trait"].
+    [ <https://w3id.org/inca/stopword> "phenotype"].
+    [ <https://w3id.org/inca/stopword> "abnormal"].
+    

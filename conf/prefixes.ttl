@@ -3,10 +3,9 @@
 
 [
  sh:declare
- [ sh:prefix "GO" ; sh:namespace "http://purl.obolibrary.org/obo/GO_"]
-,[ sh:prefix "CL" ; sh:namespace "http://purl.obolibrary.org/obo/CL_"]
-,[ sh:prefix "MICRO" ; sh:namespace "http://purl.obolibrary.org/obo/MICRO_"]
+[ sh:prefix "MICRO" ; sh:namespace "http://purl.obolibrary.org/obo/MICRO_"]
 ,[ sh:prefix "OMP" ; sh:namespace "http://purl.obolibrary.org/obo/OMP_"]
 ,[ sh:prefix "ECOCORE" ; sh:namespace "http://purl.obolibrary.org/obo/ECOCORE_"]
+,[ sh:prefix "PATO" ; sh:namespace "http://purl.obolibrary.org/obo/PATO_"]
 ,[ sh:prefix "OBA" ; sh:namespace "http://purl.obolibrary.org/obo/OBA_"]
 ].
